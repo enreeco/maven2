@@ -1,0 +1,11 @@
+<project>
+<script/>
+<modelVersion>4.0.0</modelVersion>
+<groupId>org.apache.axis</groupId>
+<artifactId>axis-saaj</artifactId>
+<version>1.4</version>
+<description>POM was created from deploy:deploy-file</description>
+<distributionManagement>
+<status>deployed</status>
+</distributionManagement>
+</project>
